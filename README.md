@@ -71,3 +71,4 @@ slowhttptest -c 400 -R -g -o slowread_test -i 20 -r 80 -t GET -u http://192.168.
 ## Documentación completa
 
 El informe detallado en PDF está disponible en este archivo: [`DoS_SlowHTTPTest.pdf`](./docs/DoS_SlowHTTPTest.pdf)
+Los informes html de cada ataque están [`aquí`](./docs) 
